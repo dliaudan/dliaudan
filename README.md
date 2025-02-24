@@ -1,8 +1,14 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">😎Wake up samurai, today we will do some devops stuff👹</h1>
 
 ###
 
-<p align="left">My name is Dan, I am a DevOps and MLOps engineer from Ukraine :ukraine:</p>
+<div align="center">
+  <img height="500" src="https://media1.tenor.com/m/lacCfyorzEwAAAAd/enbiyaemre-samurai-jack.gif"  />
+</div>
+
+###
+
+<p align="left">My name is Dan, I am a DevOps and MLOps engineer from Ukraine</p>
 
 ###
 
@@ -10,7 +16,7 @@
 
 ###
 
-<p align="left">I have experience setting up cloud services, containerization (Docker, Kubernetes), and implementing CI/CD pipelines using cutting-edge tools. I also enjoy experimenting with machine learning and integrating AI into real-world products.</p>
+<p align="left">I have experience setting up cloud services, containerization (Docker, Kubernetes), and implementing CI/CD pipelines using cutting-edge tools. <br><br>I also enjoy experimenting with machine learning and integrating AI into real-world products using MLOps practices</p>
 
 ###
 
@@ -47,12 +53,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dliaudan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dliaudan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://tenor.com/uk/view/cyber-gif-17337958694944504059"  />
 </div>
 
 ###
